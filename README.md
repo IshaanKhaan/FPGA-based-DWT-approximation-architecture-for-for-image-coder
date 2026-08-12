@@ -861,13 +861,3 @@ y[4] = -3
 * Verilog HDL
 * Xilinx Vivado
 * RTL Simulation
-
-## Project Status
-
-* [x] 3-point 1-D linear convolution design
-* [x] RAM-based input storage
-* [x] ROM-based filter coefficients
-* [x] MAC-based computation
-* [x] FSM-based control
-* [x] Testbench verification
-* [x] Verification of all 5 convolution outputs
